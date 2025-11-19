@@ -210,7 +210,6 @@ This project is developed for educational purposes as part of the CS-513 System 
 ## Acknowledgments
 
 - IIIT Bangalore for the project guidelines
-- Course instructors for technical guidance
 - Unix/Linux system programming resources
 
 ---
