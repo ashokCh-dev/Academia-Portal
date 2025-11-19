@@ -1,0 +1,15 @@
+# Compiled files
+*.o
+*.out
+academia-portal
+
+# Data files
+data/
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
